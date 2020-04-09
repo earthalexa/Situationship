@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Situationship/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Situationship/static/js/main.b296c4c2.chunk.js",
+    "main.js.map": "/Situationship/static/js/main.b296c4c2.chunk.js.map",
+    "runtime-main.js": "/Situationship/static/js/runtime-main.8151e26b.js",
+    "runtime-main.js.map": "/Situationship/static/js/runtime-main.8151e26b.js.map",
+    "static/js/2.030cb5e1.chunk.js": "/Situationship/static/js/2.030cb5e1.chunk.js",
+    "static/js/2.030cb5e1.chunk.js.map": "/Situationship/static/js/2.030cb5e1.chunk.js.map",
+    "index.html": "/Situationship/index.html",
+    "precache-manifest.7cb6cf1969efaed393ff77f0a7873098.js": "/Situationship/precache-manifest.7cb6cf1969efaed393ff77f0a7873098.js",
+    "service-worker.js": "/Situationship/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Situationship/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.030cb5e1.chunk.js.LICENSE.txt": "/Situationship/static/js/2.030cb5e1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Situationship/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8151e26b.js",
+    "static/js/2.030cb5e1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b296c4c2.chunk.js"
+  ]
+}
